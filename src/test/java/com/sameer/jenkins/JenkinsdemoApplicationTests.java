@@ -8,6 +8,7 @@ public class JenkinsdemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("sameer");
 	}
 
 }
